@@ -1,0 +1,13 @@
+C:\Users\shahryar\documents\visual studio 2010\Projects\26-1-2015 ttt winform server\26-1-2015 ttt winform server\bin\Release\26-1-2015 ttt winform server.exe
+C:\Users\shahryar\documents\visual studio 2010\Projects\26-1-2015 ttt winform server\26-1-2015 ttt winform server\bin\Release\26-1-2015 ttt winform server.pdb
+C:\Users\shahryar\documents\visual studio 2010\Projects\26-1-2015 ttt winform server\26-1-2015 ttt winform server\obj\x86\Release\_26_1_2015_ttt_winform_server.Form1.resources
+C:\Users\shahryar\documents\visual studio 2010\Projects\26-1-2015 ttt winform server\26-1-2015 ttt winform server\obj\x86\Release\_26_1_2015_ttt_winform_server.Properties.Resources.resources
+C:\Users\shahryar\documents\visual studio 2010\Projects\26-1-2015 ttt winform server\26-1-2015 ttt winform server\obj\x86\Release\26-1-2015 ttt winform server.csproj.GenerateResource.Cache
+C:\Users\shahryar\documents\visual studio 2010\Projects\26-1-2015 ttt winform server\26-1-2015 ttt winform server\obj\x86\Release\26-1-2015 ttt winform server.exe
+C:\Users\shahryar\documents\visual studio 2010\Projects\26-1-2015 ttt winform server\26-1-2015 ttt winform server\obj\x86\Release\26-1-2015 ttt winform server.pdb
+C:\Users\shahryar\Documents\Visual Studio 2010\Projects\26-1-2015 ttt winform server\26-1-2015 ttt winform server\obj\x86\Release\26-1-2015 ttt winform server.csprojResolveAssemblyReference.cache
+C:\Users\shahryar\Documents\Visual Studio 2010\Projects\26-1-2015 ttt winform server\26-1-2015 ttt winform server\bin\Release\26-1-2015 ttt winform server.exe.manifest
+C:\Users\shahryar\Documents\Visual Studio 2010\Projects\26-1-2015 ttt winform server\26-1-2015 ttt winform server\bin\Release\26-1-2015 ttt winform server.application
+C:\Users\shahryar\Documents\Visual Studio 2010\Projects\26-1-2015 ttt winform server\26-1-2015 ttt winform server\obj\x86\Release\26-1-2015 ttt winform server.exe.manifest
+C:\Users\shahryar\Documents\Visual Studio 2010\Projects\26-1-2015 ttt winform server\26-1-2015 ttt winform server\obj\x86\Release\26-1-2015 ttt winform server.application
+C:\Users\shahryar\Documents\Visual Studio 2010\Projects\26-1-2015 ttt winform server\26-1-2015 ttt winform server\bin\Release\26-1-2015 ttt winform server.exe.config

@@ -1,0 +1,13 @@
+C:\Users\shahryar\documents\visual studio 2010\Projects\26-1-2015 ttt winform client\26-1-2015 ttt winform client\bin\Release\26-1-2015 ttt winform client.exe
+C:\Users\shahryar\documents\visual studio 2010\Projects\26-1-2015 ttt winform client\26-1-2015 ttt winform client\bin\Release\26-1-2015 ttt winform client.pdb
+C:\Users\shahryar\documents\visual studio 2010\Projects\26-1-2015 ttt winform client\26-1-2015 ttt winform client\obj\x86\Release\_26_1_2015_ttt_winform_client.Form1.resources
+C:\Users\shahryar\documents\visual studio 2010\Projects\26-1-2015 ttt winform client\26-1-2015 ttt winform client\obj\x86\Release\_26_1_2015_ttt_winform_client.Properties.Resources.resources
+C:\Users\shahryar\documents\visual studio 2010\Projects\26-1-2015 ttt winform client\26-1-2015 ttt winform client\obj\x86\Release\26-1-2015 ttt winform client.csproj.GenerateResource.Cache
+C:\Users\shahryar\documents\visual studio 2010\Projects\26-1-2015 ttt winform client\26-1-2015 ttt winform client\obj\x86\Release\26-1-2015 ttt winform client.exe
+C:\Users\shahryar\documents\visual studio 2010\Projects\26-1-2015 ttt winform client\26-1-2015 ttt winform client\obj\x86\Release\26-1-2015 ttt winform client.pdb
+C:\Users\shahryar\documents\visual studio 2010\Projects\26-1-2015 ttt winform client\26-1-2015 ttt winform client\obj\x86\Release\26-1-2015 ttt winform client.csprojResolveAssemblyReference.cache
+C:\Users\shahryar\documents\visual studio 2010\Projects\26-1-2015 ttt winform client\26-1-2015 ttt winform client\bin\Release\26-1-2015 ttt winform client.exe.manifest
+C:\Users\shahryar\documents\visual studio 2010\Projects\26-1-2015 ttt winform client\26-1-2015 ttt winform client\bin\Release\26-1-2015 ttt winform client.application
+C:\Users\shahryar\documents\visual studio 2010\Projects\26-1-2015 ttt winform client\26-1-2015 ttt winform client\obj\x86\Release\26-1-2015 ttt winform client.exe.manifest
+C:\Users\shahryar\documents\visual studio 2010\Projects\26-1-2015 ttt winform client\26-1-2015 ttt winform client\obj\x86\Release\26-1-2015 ttt winform client.application
+C:\Users\shahryar\documents\visual studio 2010\Projects\26-1-2015 ttt winform client\26-1-2015 ttt winform client\bin\Release\26-1-2015 ttt winform client.exe.config
