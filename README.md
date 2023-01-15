@@ -10,8 +10,8 @@ one of my first networking Game built using Visual Studio 2010 IDE & C# Network 
 5. game draw notification
 6. can be played over any public or intranet network
 
-### How It Looks Like
-![Tick Tac Toe Network view](https://github.com/shahryaraly/tictactoe-client-server/blob/main/ttt-view.png?raw=true)
+### How Video Demo Looks Like
+[![Tick Tac Toe Network view](https://github.com/shahryaraly/tictactoe-client-server/blob/main/ttt-view.png?raw=true)](https://youtu.be/8doRgfpk3Tw)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
